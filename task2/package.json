@@ -1,0 +1,11 @@
+{
+  "name": "test-onetwotrip-task2",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^17.0.3"
+  }
+}

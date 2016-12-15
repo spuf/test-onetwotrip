@@ -9,8 +9,5 @@
     "debug": "^2.3.3",
     "redis": "^2.6.3",
     "redlock": "^2.1.0"
-  },
-  "devDependencies": {
-    "jest": "^17.0.3"
   }
 }
